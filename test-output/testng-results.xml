@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-29T22:39:29 IST" name="Default suite" finished-at="2022-08-29T22:40:37 IST" duration-ms="67277">
+    <groups>
+    </groups>
+    <test started-at="2022-08-29T22:39:29 IST" name="Default test" finished-at="2022-08-29T22:40:37 IST" duration-ms="67277">
+      <class name="testcases.Purchaseorder">
+        <test-method is-config="true" signature="datasetup()[pri:0, instance:testcases.Purchaseorder@429bffaa]" started-at="2022-08-29T22:39:29 IST" name="datasetup" finished-at="2022-08-29T22:39:30 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datasetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:testcases.Purchaseorder@429bffaa]" started-at="2022-08-29T22:39:30 IST" name="setup" finished-at="2022-08-29T22:39:39 IST" duration-ms="9603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.Purchaseorder.purhcasemedicines() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="purhcasemedicines()[pri:0, instance:testcases.Purchaseorder@429bffaa]" started-at="2022-08-29T22:39:39 IST" name="purhcasemedicines" finished-at="2022-08-29T22:40:36 IST" duration-ms="56496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purhcasemedicines -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.Purchaseorder@429bffaa]" started-at="2022-08-29T22:40:36 IST" name="teardown" finished-at="2022-08-29T22:40:36 IST" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="DataTearDown()[pri:0, instance:testcases.Purchaseorder@429bffaa]" started-at="2022-08-29T22:40:36 IST" name="DataTearDown" finished-at="2022-08-29T22:40:37 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataTearDown -->
+      </class> <!-- testcases.Purchaseorder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
